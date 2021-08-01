@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+ }
+ .title{
+    color: rgb(221, 160, 109);
+    font-size: 30px;
+ }
+    input{
+        width: 300px;
+        padding: 10px;
+        margin: 20px;
+    }
+    .button{
+        text-decoration: none;
+        padding: 10px;
+        background-color: rgb(202, 238, 144);
+        border: none;
+        color: rgb(4, 10, 58);
+        margin: 10px;
+        font-size: 15px;
+        font-weight: bold;
+        display: block;
+        width: 200px;
+        margin: 20px;
+    }
+    .check
+    {
+        width: 50px;
+    } 
